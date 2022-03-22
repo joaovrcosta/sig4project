@@ -13,7 +13,7 @@ public class GuiController {
 
 	@GetMapping("/login")
 	public ModelAndView login() {
-		return new ModelAndView("login");
+		return new ModelAndView("paginaLogin");
 	}
 
 	@GetMapping("/clientes")
