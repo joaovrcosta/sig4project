@@ -74,3 +74,5 @@ Considerando requisitos de negócio que envolvem a utilização do sistema flex�
 arquitetura segue o estilo Hexagonal que isola o núcleo da aplicação (camada interna) da camada externa que é tudo que se comunica com a aplicação, banco de dados,
 serviços de e-mail e os controllers (RICHARDSON, 2018, p.38). A parte externa pode ser modificada de acordo com a necessidade melhorando a testabilidade do software
 considerando que as modificações na camada externa não impactam a camada interna devido ao seu isolamento.
+![f2_arq_hexagonal](https://user-images.githubusercontent.com/70654718/160611949-e8d4d356-9e6a-4b7d-8274-011a3d3676e4.jpg)
+
