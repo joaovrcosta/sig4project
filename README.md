@@ -1,4 +1,4 @@
-### Fatec ZL - Centro Paula Souza
+### Fatec Zona Leste - Centro Paula Souza
 ##### Disciplina - Programação Web III
 Grupo 4
 João Victor
